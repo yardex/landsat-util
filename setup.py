@@ -51,7 +51,6 @@ setup(name="landsat",
       license="CCO",
       platforms="Posix; MacOS X; Windows",
       install_requires=[
-          "GDAL==1.11.0",
           "elasticsearch==1.1.1",
           "gsutil==4.4",
           "requests==2.3.0",
